@@ -2,6 +2,8 @@
 
 A list of Philly CocoaHead members who are interested in working on consulting projects. Names are listed alphabetically by last name.
 
+If you are interested in posting a gig to the general community please use our `#gig-swap` channel on [our Slack](http://phillycocoa.org/slack).
+
 ## Kotaro Fujita, Tomato Boy LLC
 #### Mobile/Web/Game Consultant
 
