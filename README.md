@@ -4,6 +4,15 @@ A list of Philly CocoaHead members who are interested in working on consulting p
 
 If you are interested in posting a gig to the general community please use our `#gig-swap` channel on [our Slack](http://phillycocoa.org/slack).
 
+## Ben DiFrancesco, ScopeLift
+#### Mobile First + Data Driven Technology Consulting
+
+Let's plan, build, and grow your product together. Whether your team needs some quick developer firepower or comprehensive technical guidance, [ScopeLift](http://www.scopelift.co/) can take your app or business to the next level.
+
+ * Services include iOS development, data systems & analysis, and business & technology strategy. **[Services→](http://www.scopelift.co/services)**
+ * ScopeLift brings years of real experience to the table in all of these disciplines. **[Projects→](http://www.scopelift.co/projects)**
+ * Think ScopeLift might be able to help your business or organization? *Start the conversation!* **[Contact→](http://www.scopelift.co/contact)**
+
 ## Kotaro Fujita, Tomato Boy LLC
 #### Mobile/Web/Game Consultant
 
